@@ -1,4 +1,4 @@
-/*
+
 function myMap() {
   var mapCanvas = document.getElementById("map");
   var myLatLng = {
@@ -34,7 +34,6 @@ function myMap() {
     window.location.href = "https://goo.gl/maps/9iw8NKyj8o22";
   });
 }
-*/
 
 
 var platform = new H.service.Platform({
